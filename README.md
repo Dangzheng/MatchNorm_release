@@ -1,6 +1,6 @@
 # MatchNorm
 
-This repository contains python scripts of paper [**Learning-based Point Cloud Registration for 6D Object Pose Estimation in the Real World**, ECCV2022](https://arxiv.org/pdf/2203.15309.pdf).
+This repository contains python scripts of paper [**Match Normalization:Learning-based Point Cloud Registration for 6D Object Pose Estimation in the Real World**](https://arxiv.org/pdf/2203.15309.pdf).
 
 ## Prerequisites
 
